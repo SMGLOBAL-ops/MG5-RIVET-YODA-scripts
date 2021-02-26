@@ -64,4 +64,4 @@ sleep 2s
 rivet -a ATLAS_2019_I00001 --pwd tag_1_pythia8_events.hepmc.fifo -o EWK_QCD_${par_name}_${i}_paramvalue.yoda
 n=$((n+1))
 cd ../../../
-done  
+done   
